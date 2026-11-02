@@ -241,4 +241,4 @@ This repository serves as the official landing page for Mumble. The software is 
 **Get the most recent version of Mumble today!**
 
 ---
-**Last updated:** 2026-11-02 00:09:15 UTC
+**Last updated:** 2026-11-02 07:06:08 UTC
